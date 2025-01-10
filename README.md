@@ -71,3 +71,11 @@ Test your skills and earn the SQL Foundation Certificate upon successful complet
   - Course Exam: Take the final exam to demonstrate your skills.
   - Graduation: Receive your certificate upon successfully passing the exam.
   - Career Start: Use your certificate to kickstart your career in back-end development.
+
+## ✉️ Contact Information
+
+If you have any questions, feel free to reach out via email: kadiryazadzhi@gmail.com.  
+
+---
+
+Join me in mastering advanced C# concepts! Happy coding! 😊
